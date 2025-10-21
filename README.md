@@ -2,6 +2,7 @@
 
 Bu doküman, Streamlit ile hazırlanmış **Basit RAG (Retrieval-Augmented Generation) Chatbot** uygulamasının tüm bileşenlerini, mimarisini, kullanılan modelleri, vektör veritabanını, kurulum ve dağıtım bilgilerini açıklar. Eğitimsel amaçlı sade bir örnek olup gerçek üretim kullanımı için ek güvenlik ve ölçeklendirme adımları gereklidir.
 
+## Deploy Link ( https://rag-pdf-chatbot-main.streamlit.app/ )
 ## 🎥 Demo Video
 
 [![RAG PDF Chatbot Demo](https://img.youtube.com/vi/7gzGqXkb3yw/maxresdefault.jpg)](https://youtu.be/7gzGqXkb3yw)
